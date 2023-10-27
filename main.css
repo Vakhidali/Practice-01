@@ -1,0 +1,233 @@
+body {
+    max-width: 1920px;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1920px;
+    /* font-family: ; */
+}
+
+.header img {
+    margin: 30px 0 0 375px;
+}
+
+.header .nav a {
+   text-decoration: none;
+   color: #774E2E;
+    padding: 10px; 
+}
+.header .nav {
+
+margin: 59px 375px 0 688px;
+}
+.main {
+
+    width: 1920px;
+
+}
+
+.main .yummy .conteiner{
+    padding: 0;
+}
+
+.yummy {
+    display: flex;
+    margin: 270px 375px 0 375px;
+
+}
+
+.main .yummy .title1 {
+    font-size: 110px;
+    font-weight: bold;
+    margin-bottom: 0;
+    color: #F37F34;
+    text-shadow: 1px 1px 2px rgb(12, 1, 1), 0 0 1em rgba(214, 111, 64, 0.63), 0 0 0.2em rgba(224, 152, 16, 0.705);
+
+}
+.main .yummy .title2 {
+    font-size: 110px;
+        font-weight: bold;
+margin:0 0 40px 0;
+color: #774E2E;
+
+}
+
+.main .yummy p {
+    margin-bottom: 0px;
+    
+    width: 575px;
+    height: 96px;
+
+}
+
+.main .yummy .button1 {
+    height: 69px;
+width: 343px;
+margin-top: 50px;
+background-color: #774E2E;
+color: white;
+}
+
+.main .dog {
+    height: 575px;
+    width: 596px;
+    margin: 0 375px 0 20px;
+    padding: 0px;
+}
+
+.sweets {
+    background-color: #FFF9EA;
+    
+}
+
+.sweets .title3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    width: 1151px;
+    margin-left: 375px;
+  
+}
+
+.sweets .title3 .title4 {
+    font-size: 72px;
+    font-weight: bold;
+    color: #F37F34;
+    
+    /* margin-left: -115px; */
+}
+
+.sweets .title3 .title5 {
+    font-size: 72px;
+        font-weight: bold;
+        color: #774E2E;
+        margin-left: 40px;
+}
+
+.sweets .conteiner {
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.sweets .conteiner .candy1 {
+    background-color: white;
+    height: 462px;
+    width: 370px;
+   margin: 70px 30px 150px 375px;
+}
+
+.sweets .conteiner .candy1 h5 {
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.sweets .conteiner .candy1 p {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    
+}
+
+.sweets .conteiner .candy2 {
+    background-color: white;
+    height: 462px;
+    width: 370px;
+    margin: 10px;
+    margin: 70px 0px 150px 0px;
+}
+
+.sweets .conteiner .candy2 h5 {
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.sweets .conteiner .candy2 p {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+
+}
+
+.sweets .conteiner .candy3 {
+    background-color: white;
+    height: 462px;
+    width: 370px;
+    margin: 70px 375px 150px 30px;
+}
+
+.sweets .conteiner .candy3 h5 {
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.sweets .conteiner .candy3 p {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+
+}
+
+.main .advice {
+    display: flex;
+    margin: 150px 375px 150px 375px;
+}
+.main .advice .conteiner img {
+    height: 722px;
+    width: 575px;
+}
+.main .advice .conteiner .title1 {
+    font-size: 72px;
+    font-weight: bold;
+    margin-bottom: 0;
+    color: #F37F34;
+}
+
+.main .advice .conteiner .title2 {
+    font-size: 72px;
+    font-weight: bold;
+    margin-top: 0;
+    color: #774E2E;
+}
+
+.main .advice .conteiner p {
+    font-size: 16px;
+}
+.main .advice .conteiner h3 {
+    color: #673B19;
+    font-size: 24px;
+}
+
+.main .advice .conteiner ul {
+    color: #774E2E;
+    font-size: 16px;
+}
+
+.main footer {
+    background-color: #774E2E;
+    height: 179px;
+
+}
+.main .footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 150px;
+    margin-left: 375px;
+    margin-right: 375px;
+}
+
+.main .footer .paragraf {
+color: white;
+   font-size: 36px;
+}
+
+.main .footer .xmild {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
